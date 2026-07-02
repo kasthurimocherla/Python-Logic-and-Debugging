@@ -1,3 +1,9 @@
+"""
+Project: Prime Number Checker
+Author: Mocherla Kasthuri
+Description: Checks whether a given number is prime.
+"""
+
 # A simple script to check if a number is prime.
 # Demonstrated skill: Logical loops and conditional handling.
 
