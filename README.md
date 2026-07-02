@@ -48,6 +48,11 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Assigns grades based on the calculated percentage.
 - Demonstrates functions, loops, conditional statements, and mathematical operations.
 
+### Word Counter
+- Counts words, characters, and sentences in a paragraph.
+- Displays the frequency of each word.
+- Demonstrates string manipulation, dictionaries, loops, and text processing.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
