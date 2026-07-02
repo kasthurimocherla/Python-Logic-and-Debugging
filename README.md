@@ -62,6 +62,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - A multiple-choice quiz that evaluates the user's score.
 - Demonstrates dictionaries, lists, loops, conditional statements, and user interaction.
 
+### Library Management System
+- Add, view, issue, and return books.
+- Demonstrates lists, loops, conditional statements, and menu-driven programming.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
