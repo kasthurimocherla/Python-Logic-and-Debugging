@@ -66,6 +66,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Add, view, issue, and return books.
 - Demonstrates lists, loops, conditional statements, and menu-driven programming.
 
+### Student Management System
+- Add, view, search, update, and delete student records.
+- Demonstrates functions, lists, dictionaries, loops, conditional statements, and CRUD operations.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
