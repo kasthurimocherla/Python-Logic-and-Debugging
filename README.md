@@ -15,6 +15,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Checks whether a word or number is a palindrome.
 - Demonstrates string manipulation and logical comparison.
 
+### Fibonacci Series
+- Generates the Fibonacci sequence.
+- Demonstrates loops, variables, and logical programming.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
@@ -24,7 +28,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 
 ## Future Projects
 - Armstrong Number Checker
-- Fibonacci Series
 - Number Guessing Game
 - Password Generator
 - Sorting Algorithms
