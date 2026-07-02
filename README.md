@@ -43,6 +43,11 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Converts temperatures between Celsius, Fahrenheit, and Kelvin.
 - Demonstrates functions, user input, conditional statements, and mathematical calculations.
 
+### Student Grade Calculator
+- Calculates total marks and percentage.
+- Assigns grades based on the calculated percentage.
+- Demonstrates functions, loops, conditional statements, and mathematical operations.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
