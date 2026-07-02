@@ -2,12 +2,14 @@
 
 A collection of Python programs demonstrating logical thinking, debugging, and problem-solving skills.
 
-## Project
+## Projects
 
 ### Prime Number Checker
 - Checks whether a given number is prime.
-- Uses conditional statements and loops.
-- Demonstrates logical problem-solving and basic algorithm implementation.
+
+### Calculator
+- Performs addition, subtraction, multiplication, and division.
+- Handles division by zero.
 
 ## Skills Demonstrated
 - Python Programming
