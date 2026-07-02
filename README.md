@@ -58,16 +58,16 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Calculates the total amount spent.
 - Demonstrates lists, tuples, loops, user input, and basic data processing.
 
+### Quiz Application
+- A multiple-choice quiz that evaluates the user's score.
+- Demonstrates dictionaries, lists, loops, conditional statements, and user interaction.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
 - Problem Solving
 - Debugging
 - Clean Code
-
-## Future Projects
-- Sorting Algorithms
-- File Handling Programs
 
 ## Author
 Mocherla Kasthuri
