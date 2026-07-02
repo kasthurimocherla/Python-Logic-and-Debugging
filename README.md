@@ -11,6 +11,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Performs addition, subtraction, multiplication, and division.
 - Handles division by zero.
 
+### Palindrome Checker
+- Checks whether a word or number is a palindrome.
+- Demonstrates string manipulation and logical comparison.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
@@ -19,7 +23,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Clean Code
 
 ## Future Projects
-- Palindrome Checker
 - Armstrong Number Checker
 - Fibonacci Series
 - Number Guessing Game
