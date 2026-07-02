@@ -53,6 +53,11 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Displays the frequency of each word.
 - Demonstrates string manipulation, dictionaries, loops, and text processing.
 
+### Expense Tracker
+- Records and displays daily expenses.
+- Calculates the total amount spent.
+- Demonstrates lists, tuples, loops, user input, and basic data processing.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
