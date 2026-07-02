@@ -23,6 +23,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Checks whether a number is an Armstrong number.
 - Demonstrates loops, mathematical operations, and logical programming.
 
+### Password Generator
+- Generates a secure random password.
+- Demonstrates the use of Python's `random` and `string` modules.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
@@ -32,7 +36,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 
 ## Future Projects
 - Number Guessing Game
-- Password Generator
 - Sorting Algorithms
 - File Handling Programs
 
