@@ -31,6 +31,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - A game where the user guesses a randomly generated number.
 - Demonstrates loops, conditional statements, and the `random` module.
 
+### To-Do List
+- A command-line task manager.
+- Demonstrates file handling, functions, loops, and user interaction.
+  
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
