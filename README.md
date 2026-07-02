@@ -23,7 +23,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Armstrong Number Checker
 - Fibonacci Series
 - Number Guessing Game
-- Calculator
 - Password Generator
 - Sorting Algorithms
 - File Handling Programs
