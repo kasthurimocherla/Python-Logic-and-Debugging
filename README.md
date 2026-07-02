@@ -34,7 +34,11 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 ### To-Do List
 - A command-line task manager.
 - Demonstrates file handling, functions, loops, and user interaction.
-  
+
+### Contact Book
+- Stores and displays contacts.
+- Demonstrates dictionaries, loops, and user interaction.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
