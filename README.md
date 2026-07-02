@@ -19,6 +19,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Generates the Fibonacci sequence.
 - Demonstrates loops, variables, and logical programming.
 
+### Armstrong Number Checker
+- Checks whether a number is an Armstrong number.
+- Demonstrates loops, mathematical operations, and logical programming.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
@@ -27,7 +31,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Clean Code
 
 ## Future Projects
-- Armstrong Number Checker
 - Number Guessing Game
 - Password Generator
 - Sorting Algorithms
