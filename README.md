@@ -39,6 +39,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Stores and displays contacts.
 - Demonstrates dictionaries, loops, and user interaction.
 
+### Temperature Converter
+- Converts temperatures between Celsius, Fahrenheit, and Kelvin.
+- Demonstrates functions, user input, conditional statements, and mathematical calculations.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
