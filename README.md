@@ -27,6 +27,10 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Generates a secure random password.
 - Demonstrates the use of Python's `random` and `string` modules.
 
+### Number Guessing Game
+- A game where the user guesses a randomly generated number.
+- Demonstrates loops, conditional statements, and the `random` module.
+
 ## Skills Demonstrated
 - Python Programming
 - Logic Building
@@ -35,7 +39,6 @@ A collection of Python programs demonstrating logical thinking, debugging, and p
 - Clean Code
 
 ## Future Projects
-- Number Guessing Game
 - Sorting Algorithms
 - File Handling Programs
 
